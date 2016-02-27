@@ -23,4 +23,4 @@
      sudo apt-get update
      sudo apt-get install indicator-stickynotes
      sudo apt-get install mysql-server mysql-client
-
+     sudo apt-get install apache2-utils
