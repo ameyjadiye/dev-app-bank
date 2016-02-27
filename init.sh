@@ -19,4 +19,8 @@
      ruby -version
      gem install jekyll
      sudo apt-get install nodejs nodejs-dev npm
+     sudo apt-add-repository ppa:umang/indicator-stickynotes
+     sudo apt-get update
+     sudo apt-get install indicator-stickynotes
+     sudo apt-get install mysql-server mysql-client
 
