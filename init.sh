@@ -24,3 +24,4 @@
      sudo apt-get install indicator-stickynotes
      sudo apt-get install mysql-server mysql-client
      sudo apt-get install apache2-utils
+     sudo apt-get install python-pip python-dev python-virtualenv
