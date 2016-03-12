@@ -26,3 +26,6 @@
      sudo apt-get install apache2-utils
      sudo apt-get install python-pip python-dev python-virtualenv
      sudo apt-get install arduino arduino-core
+     sudo apt-get update
+     sudo apt-get install gdebi
+     sudo gdebi ~/Downloads/bcompare-4.1.4.20978_amd64.deb 
