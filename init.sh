@@ -29,3 +29,18 @@
      sudo apt-get update
      sudo apt-get install gdebi
      sudo gdebi ~/Downloads/bcompare-4.1.4.20978_amd64.deb 
+
+     sudo pip install SpeechRecognition
+     sudo apt-get install libjack0
+     sudo apt-get install libjack-dev portaudio19-dev python-all-dev python3-all-dev && sudo pip install pyaudio
+     sudo pip install pyspeech
+     sudo pip install speech
+     sudo pip install pygsr
+     sudo apt-get purge bluez-alsa
+     sudo apt-get install  bluez-alsa
+     sudo apt-get purge bluez-alsa
+     sudo apt-get update
+     sudo apt-get install zsh
+     chsh -s $(which zsh)
+     sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
