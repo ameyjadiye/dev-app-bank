@@ -43,4 +43,5 @@
      sudo apt-get install zsh
      chsh -s $(which zsh)
      sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
+     sudo apt-get install python-numpy python-scipy python-dev python-pip python-nose g++ libopenblas-dev git
+     sudo pip install theano
