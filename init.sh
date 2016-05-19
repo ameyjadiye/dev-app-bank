@@ -44,6 +44,7 @@
      chsh -s $(which zsh)
      sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
      sudo apt-get install python-numpy python-scipy python-dev python-pip python-nose g++ libopenblas-dev git
+     sudo pip install theano
      sudo apt-get install deluge
      sudo apt-get install gnupg2
      sudo pip install aerospike
