@@ -52,20 +52,6 @@
      sudo pip install Theano --upgrade
      sudo pip install virtualenv
      sudo apt-get install vlc-plugin-libde265
-     sudo apt-get install  libglew-dev libcheese7 libcheese-gtk23 libclutter- gst-2.0-0 libcogl15 libclutter-gtk-1.0-0 libclutter-1.0-0  xserver-xorg-input-all haskell-platform
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     sudo apt-get install  haskell-platform
 
 
