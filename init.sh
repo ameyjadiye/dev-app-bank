@@ -53,5 +53,7 @@
      sudo pip install virtualenv
      sudo apt-get install vlc-plugin-libde265
      sudo apt-get install  haskell-platform
-
+     sudo apt-get update 
+     sudo apt-get install texmaker  
+     sudo apt-get install texlive-full
 
