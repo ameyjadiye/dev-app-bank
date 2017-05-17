@@ -56,4 +56,6 @@
      sudo apt-get update 
      sudo apt-get install texmaker  
      sudo apt-get install texlive-full
-     sudo apt-get install haskell-platform
+     sudo apt-get install haskell-platfor
+     sudo apt-get install nvm
+     sudo nvm install v7.10.0
