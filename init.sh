@@ -59,3 +59,4 @@
      sudo apt-get install haskell-platfor
      sudo apt-get install nvm
      sudo nvm install v7.10.0
+     sudo apt-get install subversion
