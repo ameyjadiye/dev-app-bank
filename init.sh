@@ -57,5 +57,10 @@
      sudo apt-get update
      sudo apt-get install gdebi-core -y
      sudo gdebi bcompare-4.1.9.21719_amd64.deb
-
-
+     sudo apt-get update 
+     sudo apt-get install texmaker  
+     sudo apt-get install texlive-full
+     sudo apt-get install haskell-platfor
+     sudo apt-get install nvm
+     sudo nvm install v7.10.0
+     sudo apt-get install subversion
