@@ -53,5 +53,9 @@
      sudo pip install virtualenv
      sudo apt-get install vlc-plugin-libde265
      sudo apt-get install  haskell-platform
+     wget http://www.scootersoftware.com/bcompare-4.1.9.21719_amd64.deb
+     sudo apt-get update
+     sudo apt-get install gdebi-core -y
+     sudo gdebi bcompare-4.1.9.21719_amd64.deb
 
 
