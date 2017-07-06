@@ -64,3 +64,6 @@
      sudo apt-get install nvm
      sudo nvm install v7.10.0
      sudo apt-get install subversion
+     sudo add-apt-repository ppa:umang/indicator-stickynotes
+     sudo apt-get update
+     sudo apt-get install indicator-stickynotes
